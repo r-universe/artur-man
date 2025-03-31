@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "DandEFA"]
 	path = DandEFA
-	url = https://github.com/cran/DandEFA
+	url = https://github.com/artur-man/dandefa
