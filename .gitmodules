@@ -11,6 +11,9 @@
 [submodule "ImageArray"]
 	path = ImageArray
 	url = https://github.com/Artur-man/ImageArray
+[submodule "SimpleITK"]
+	path = SimpleITK
+	url = https://github.com/Artur-man/SimpleITKInstaller
 [submodule "VoltRon"]
 	path = VoltRon
 	url = https://github.com/Artur-man/VoltRon
