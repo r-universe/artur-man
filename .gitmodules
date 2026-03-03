@@ -13,7 +13,7 @@
 	url = https://github.com/Artur-man/ImageArray
 [submodule "SimpleITK"]
 	path = SimpleITK
-	url = https://github.com/Artur-man/SimpleITKInstaller
+	url = https://github.com/Artur-man/SimpleITKRInstaller
 [submodule "VoltRon"]
 	path = VoltRon
 	url = https://github.com/Artur-man/VoltRon
@@ -23,3 +23,6 @@
 [submodule "ZarrDataFrame"]
 	path = ZarrDataFrame
 	url = https://github.com/Artur-man/ZarrDataFrame
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/Artur-man/opencv
