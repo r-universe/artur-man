@@ -1,7 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/artur-man/artur-man.r-universe.dev
 	branch = HEAD
 [submodule "DandEFA"]
 	path = DandEFA
-	url = https://github.com/artur-man/dandefa
+	url = https://github.com/Artur-man/DandEFA
+[submodule "HDF5DataFrame"]
+	path = HDF5DataFrame
+	url = https://github.com/Artur-man/HDF5DataFrame
+[submodule "ImageArray"]
+	path = ImageArray
+	url = https://github.com/Artur-man/ImageArray
+[submodule "VoltRon"]
+	path = VoltRon
+	url = https://github.com/Artur-man/VoltRon
+[submodule "VoltRonStore"]
+	path = VoltRonStore
+	url = https://github.com/Artur-man/VoltRonStore
+[submodule "ZarrDataFrame"]
+	path = ZarrDataFrame
+	url = https://github.com/Artur-man/ZarrDataFrame
